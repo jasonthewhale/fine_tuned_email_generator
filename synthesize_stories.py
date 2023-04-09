@@ -4,7 +4,7 @@ import openai
 from time import time,sleep
 from uuid import uuid4
 
-API_KEY="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"
+API_KEY=""
 openai.api_key = API_KEY
 
 
