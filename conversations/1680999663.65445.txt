@@ -1,0 +1,15 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I want to inquire about rental properties in a specific location.
+ASSISTANT: Great, can you give me more details about what you're looking for? Size, budget, amenities, move-in date, etc.
+USER: Sure! I'm looking for a one-bedroom apartment within a certain budget, with a move-in date of August 1st. I'd like it to have a laundry facility, parking, and possibly a balcony.
+ASSISTANT: Thank you for that information. Who do you want the email to be addressed to and from?
+USER: It should be addressed to admin@realestateco.com, and from my email address.
+ASSISTANT: Copy that. And what should be the subject of the email?
+USER: "Inquiry for Available Apartments in Desired Location"
+ASSISTANT: Got it. Is there a specific tone you would like me to convey in the email?
+USER: Just professional and polite, please.
+ASSISTANT: Understood. Would you like me to begin drafting the email now, or did you have any other details you wanted me to include?
+USER: No, that's it. You can start drafting it. Thank you so much!
+ASSISTANT: My pleasure. I'll make sure to send it to you for review before sending it out.

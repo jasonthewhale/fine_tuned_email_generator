@@ -1,0 +1,5 @@
+Given the following scenario, write an perfect email.
+
+SCENARIO: It was the holiday season, and Sarah was in charge of coordinating the gifts for her team members at work. She decided to send an email to her colleagues, John and Emily, to discuss potential gift ideas for the upcoming holiday party. Sarah typed the email timestamped at 10:12 am on December 1st, addressed to John and cc'ing Emily, and mentioned how important it was for them to come up with great gift ideas for their colleagues. She suggested a group gift rather than individual gifts, and asked if John and Emily had any ideas on what to get. Sarah also mentioned that birthdays and other special events are coming up, so it would be helpful to plan ahead. In addition, she proposed that they each contribute $20 to purchase a gift card or a basket of holiday treats to make the gift more festive. She asked John and Emily to reply by December 5th with their suggestions and to let her know if they agreed to the group gift funding. Sarah hit send with a sense of accomplishment in planning ahead with enough time to pull off a successful group gift.
+
+PERFECT EMAIL:

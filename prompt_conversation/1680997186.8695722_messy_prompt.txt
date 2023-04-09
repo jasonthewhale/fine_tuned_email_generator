@@ -1,0 +1,10 @@
+0d6c0a27-82d9-40e8-8e75-8b2ef29772d7
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a warm summer afternoon when Mrs. Johnson sat down at her desk to write an email to the principal of her children's school. As the parent representative for the school's Parent Teacher Association, she was tasked with keeping other parents up-to-date on their children's academic progress, achievements, and school events. After typing in the email's subject line, "Educational updates: Informing family members about children's achievements, school events or academic progress," Mrs. Johnson began to compose a well-thought-out message that would inform parents of the latest happenings at the school. She started with a greeting, "Dear Principal Smith," and then delved into the details. She informed the principal of the most recent academic achievements, including three students who had been accepted into a prestigious academic institution, and two of her own children who had won the school's spelling bee. She also noted that a parent-teacher meeting was scheduled for the following week, where parents could learn about how their children were progressing academically. After concluding the email with a thankful message, Mrs. Johnson hit the send button and breathed a sigh of relief. At least now, she was confident that other parents had been updated on the latest educational events at the school.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

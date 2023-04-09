@@ -1,0 +1,10 @@
+635c39e5-e812-42b6-a3e9-4522c9d1fdb2
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a sunny Sunday afternoon, and Mary felt a sudden urge to update her old friend, Emily, about her furry family members. Mary and Emily had studied together at university and had remained close friends ever since. Mary had always been an animal lover, and had three pets: a dog named Cooper, a cat named Belle, and a parrot named Polly. She thought Emily would love to hear about their latest antics, so she quickly drafted an email to her. In the email, Mary wrote about how Cooper had managed to sneak off with her lunch, and how Belle had decided to take a nap in a flowerpot. She even attached some photos of each pet in their silly moments. Mary also shared about how Polly had learned a new phrase, and it made the entire family laugh. Mary's intention was to spread some joy and bring a smile to Emily's face. She hoped Emily would respond soon, and maybe even share some stories about her own pets.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

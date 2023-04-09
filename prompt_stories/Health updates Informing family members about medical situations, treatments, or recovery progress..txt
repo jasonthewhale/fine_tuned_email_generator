@@ -1,0 +1,4 @@
+110339f9-0de4-433a-81ea-f7a615f7fab9
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Health updates: Informing family members about medical situations, treatments, or recovery progress.
+
+<<DETAILED SCENARIO>>:

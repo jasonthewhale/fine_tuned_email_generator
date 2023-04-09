@@ -1,0 +1,6 @@
+8084a1de-18c8-43d3-ac7c-6eb2c37c2df4
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: John had been thinking about organizing a get-together for quite some time now but never got around to it. However, with the pandemic making things difficult, he realized that it was more important than ever to keep in touch with his friends and family. He decided to send an email to his friends and family, outlining his plans to organize a weekend outing, and coordinate schedules. In his email, he suggested that they all come together on the last weekend of the month, and spend a day together, watching movies, playing games, and sharing stories. He also suggested that each one of them brings one dish, and they can all enjoy a potluck. John was excited to plan this event, and he wanted to make sure that everyone was on board with his idea. As he sat down to write the email, he listed all the names of his friends and family, and made sure he included everyone, from his cousin Mike to his best friend Mary. Once he had written the message, he hit send, hoping that everyone would be able to come together for a day of fun and bonding.
+
+BULLET POINTS:

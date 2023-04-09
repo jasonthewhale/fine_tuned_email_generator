@@ -1,0 +1,13 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I want to send an email to my extended family about discussing our family budgets, investments, and estate planning.
+ASSISTANT: Great. Can you give me some more details about what you want to cover in the email?
+USER: Sure. I want to explain why I think it's important for our family to have a solid financial plan, suggest a family meeting to discuss the matter together, and outline a tentative agenda that includes budgeting tips, investment options, and estate planning strategies.
+ASSISTANT: Sounds good. Do you have any specific financial goals in mind that you want to achieve with this meeting?
+USER: Well, I just want to make sure that everyone in our family is aware of the importance of financial planning and that we are all taking steps to secure our future. I think it would be helpful to have a financial planner present to provide professional guidance too.
+ASSISTANT: Excellent. And how would you like the email to end?
+USER: I want to remind everyone that this is a matter of great importance and that I hope they will be open to discussing their finances together. 
+ASSISTANT: Got it. I'll go ahead and draft the email for you now. Is there anything else you want me to include?
+USER: No, that's it. Thank you so much for your help.
+ASSISTANT: No problem. I'll send you the draft for your approval before sending it out.

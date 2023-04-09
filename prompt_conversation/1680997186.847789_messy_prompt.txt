@@ -1,0 +1,10 @@
+df86d3dd-5918-42b9-8a82-b3efb2ce8f56
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Sarah is a communications professional who has just attended a networking event with her colleagues. She met several new contacts who she believes would be great for her company to collaborate with on industry initiatives. Sarah decides to follow up with an email to John, the head of communications for a prominent industry organization, to introduce him to her new contacts and maintain their professional relationship. In the email, she mentions the names and backgrounds of the contacts, as well as their potential for collaboration. She also thanks John for his previous support of her company's initiatives and expresses her eagerness to continue working together. Sarah takes care to craft a professional and personable message that will send a strong message of her company's interest in collaborating and maintaining strong relationships in the industry. She hits send, feeling confident in her networking skills and the value of the connections she has made.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

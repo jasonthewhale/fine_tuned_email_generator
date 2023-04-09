@@ -1,0 +1,6 @@
+929f7bcd-6233-4212-9802-7e5d05b0d2ae
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: John, the HR manager of XYZ Corporation, had recently received a directive from the CEO regarding a major policy update that needed to be communicated to all employees. He understood that this would require a thorough and detailed email outlining the changes in policies, procedures and guidelines that would impact everyone in the organization. With a sense of duty and urgency, John began working on the email, carefully crafting each sentence to ensure clarity and understanding. He included explanations for why the changes were necessary, the specific dates for implementation, and instructions for compliance. John knew that this announcement would elicit questions and concerns from employees, so he made sure to provide his contact information for anyone who needed further details. After completing the email, he sent it out to all employees, across all levels and departments. He felt relieved knowing that the team would understand the importance of the changes and be able to transition smoothly with the new policies set in place.
+
+BULLET POINTS:

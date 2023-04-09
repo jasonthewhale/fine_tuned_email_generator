@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:It's about my grades. I want to email my professors and ask them about their grading methods and possibly request a re-evaluation of my work.
+ASSISTANT: Okay, I can definitely draft that for you. Can you give me some more details on what you want to say in the email?
+USER: Sure. So, I just received my grades for the semester and while I'm happy with most of them, there are a couple of classes where I feel I deserved better. I want to respectfully address my concerns about my academic performance and provide specific examples of where I believe my work deserved a higher grade. I also want to ask for clarification on the professors' expectations and express my willingness to meet with them to discuss my grades further.
+ASSISTANT: Okay, that makes sense. Can I ask who the professors are that you want to email?
+USER: Yes, their names are Dr. Thompson and Dr. Garcia.
+ASSISTANT: Got it. And when do you want me to send the email?
+USER: I would like to send it as soon as possible, maybe this afternoon or early tomorrow morning. I want to hear back from them before the weekend.
+ASSISTANT: Okay, I can definitely draft the email and have it ready for you to review by this afternoon. Is there anything else you want to add to the email or any specific tone you want me to convey?
+USER: I just want to make sure that the email is respectful but also assertive in addressing my concerns. I want to make sure that the professors understand how important my grades are to me, as I am applying to graduate school, and that I'm addressing my concerns early on to ensure my academic success.
+ASSISTANT: Got it. I'll make sure to convey that in the email. Is there anything else you need help with?
+USER: No, that's all. Thank you for your help!

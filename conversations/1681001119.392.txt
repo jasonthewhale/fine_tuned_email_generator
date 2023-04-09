@@ -1,0 +1,18 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I need an email requesting letters of recommendation from my former professors.
+ASSISTANT: Okay, can you provide me with some more details? What is the purpose of these letters of recommendation?
+USER: I am applying for post-graduate studies and need the letters to be considered for various internships and graduate programs.
+ASSISTANT: Great, can you tell me more about your academic achievements and your aspirations for your career?
+USER: I graduated college with high honors and am committed to pursuing post-graduate studies. I have researched various programs and internships and have shortlisted some colleges that I would like to apply to. I need letters of recommendation from my former professors to support my application.
+ASSISTANT: That sounds excellent. Can you provide me with the names of the professors that you would like to request the letters of recommendation from?
+USER: Yes, I have a list of professors that I would like to request the letters from. I can send you their names and contact information.
+ASSISTANT: Okay, and what about the deadline for these letters? When do you need them to be submitted?
+USER: I need them to be submitted well in advance of the application deadlines. I can provide you with the deadlines for the various programs and internships.
+ASSISTANT: Perfect, that's very helpful. Would you like to attach any documents to the email, such as your resume, transcripts, or other important information?
+USER: Yes, I would like to attach my resume, transcripts, and any other important documents that may be helpful for the professors in writing their recommendation letters.
+ASSISTANT: Okay, great. And how would you like the tone of the email to be? Do you want it to be polite and formal?
+USER: Yes, I want it to be polite and formal, and express my gratitude for their time and consideration in writing the letters.
+ASSISTANT: Absolutely, that's a great approach. Is there anything else you would like me to include in the email?
+USER: No, that should cover everything. Thank you so much for your help!

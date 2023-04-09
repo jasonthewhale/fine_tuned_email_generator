@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:It's about some questions I have for a classmate regarding our psychology assignment.
+ASSISTANT: Okay, can you give me some more information about what you need to ask your classmate?
+USER: Sure, I just finished an online lecture and I'm feeling overwhelmed by the upcoming assignment. My classmate, John, offered to help with any questions we might have about the course content, so I want to reach out to him to see if he can clarify some things for me.
+ASSISTANT: That sounds like a good idea. What specifically are your questions about the assignment? 
+USER: I just need some clarification on the material covered in the lecture and some guidance on how to approach the assignment. 
+ASSISTANT: Great, so you want to thank John for offering to help and ask if he can schedule a time to meet virtually or discuss over email, correct? 
+USER: Yes, exactly.
+ASSISTANT: And do you want me to include any information about your interaction with the professor? 
+USER: Yes, actually. When I sent the email to John, I accidentally sent it to the professor as well. But the professor replied and praised me for reaching out for help and offered to schedule a one-on-one session with me to discuss any further questions or concerns I might have. 
+ASSISTANT: Okay, got it. So I will mention that in the email as well.
+USER: Thank you so much! That's perfect.

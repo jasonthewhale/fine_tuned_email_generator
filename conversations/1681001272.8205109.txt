@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I need it to explain the urgent issue we're facing with our client and their software release, and ask for help from a consulting firm.
+ASSISTANT: Okay, can you give me some more details about the issue?
+USER: Sure. Our client, XY Industries, has a critical problem with their software release that could cause major setbacks for their business. We've tried brainstorming solutions but we've hit a dead-end, so we need to reach out for external assistance.
+ASSISTANT: Got it. And which consulting firm do you want to email?
+USER: Jones & Associates.
+ASSISTANT: Great. Can you tell me more about what you want to ask them for specifically?
+USER: I want to explain the situation in detail and ask for their expert advice and assistance in finding a solution to the problem. It's important that we resolve this issue quickly to avoid any major revenue loss for our client.
+ASSISTANT: Understood. Is there anything else you would like me to include in the email?
+USER: No, that's all. Thank you for your help.

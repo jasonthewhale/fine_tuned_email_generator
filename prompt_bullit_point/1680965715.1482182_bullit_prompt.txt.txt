@@ -1,0 +1,6 @@
+0971e73b-52eb-4da6-bfb4-022a2295064f
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Mary had been reminiscing about her college days and found herself missing old friends. She decided to take action and wrote an email to her university alumni affairs office, inquiring about any possible contact information for her former classmates. With the help of the office, she was connected with an old friend, Jane, who she had lost contact with over the years. Excited to reconnect, Mary composed an email to Jane, reminiscing about their shared memories and updating her on her current life. She expressed her desire to rekindle their friendship and suggested a meet-up over coffee. Jane responded positively, thrilled to hear from Mary after so long. They exchanged contact details and planned a reunion, eagerly anticipating the chance to catch up and create new memories together. In her heart, Mary felt grateful that she took the initiative to reach out, knowing that sometimes friendships just need a little bit of effort to flourish once again.
+
+BULLET POINTS:

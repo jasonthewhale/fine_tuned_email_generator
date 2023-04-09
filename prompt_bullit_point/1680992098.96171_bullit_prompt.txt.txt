@@ -1,0 +1,6 @@
+14d6bc50-2749-42e0-b45a-a80c33c23bb0
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Sophie is a fitness enthusiast who loves to workout and make healthy lifestyle choices. One day, while browsing the internet, she comes across a wellness blog belonging to an organization named "Fit for Life." Impressed with the content, she decides to send them an email sharing her own journey towards fitness and asking for advice on how to stay motivated. She introduces herself and states her intentions, explaining that she would like to share her own fitness goals and workout routine in hopes of inspiring others. Additionally, she expresses an interest in receiving tips and tricks to improve her own fitness journey, and requests monthly updates on the organization's inspirational stories to keep her motivated. Sophie concludes the email by thanking the organization for their work and hoping for a fruitful collaboration.
+
+BULLET POINTS:

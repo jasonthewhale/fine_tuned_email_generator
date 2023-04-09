@@ -1,0 +1,6 @@
+67237ad1-c123-4b23-8862-e46cd22a1b25
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: It was Tuesday afternoon when Sarah sat down at her computer desk, ready to draft an email to the leadership team at her church. As an active member of the Missions and Outreach committee, Sarah was responsible for communicating updates and needs related to the church-sponsored missionaries, mission trips, and local outreach initiatives. She carefully crafted the email, providing a detailed account of the recent mission trip to Mexico, the progress made by the missionaries in Africa, and a request for volunteers for the upcoming local community service project. Sarah made sure to mention the specific needs of each project and how members could get involved. She also included an inspiring story of a local family who had benefited from the church's outreach program, hoping to motivate more people to join the cause. After proofreading her email, Sarah clicked on "send" and went on with her day, knowing that her message would reach the right people and make a difference in the world.
+
+BULLET POINTS:

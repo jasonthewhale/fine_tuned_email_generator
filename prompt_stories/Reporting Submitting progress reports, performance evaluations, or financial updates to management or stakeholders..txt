@@ -1,0 +1,4 @@
+a2e965eb-1e51-4184-a71f-c28395eb0b57
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Reporting: Submitting progress reports, performance evaluations, or financial updates to management or stakeholders.
+
+<<DETAILED SCENARIO>>:

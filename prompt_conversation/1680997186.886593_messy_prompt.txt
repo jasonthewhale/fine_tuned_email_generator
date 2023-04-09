@@ -1,0 +1,10 @@
+a2b771c6-8e38-4b5f-afce-931820ecbfc4
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a beautiful Sunday afternoon and Maria sat down at her desk to write an email to her extended family members, discussing their upcoming travel plans. She started by addressing her cousin, John, who lives in the United States with his family. She expressed her excitement about the possibility of visiting them in Chicago during the summer holidays with her husband and kids. She also added that she would love it if they could arrange a family reunion, with all the other cousins and their families. Maria then wrote to her sister, who lives in Spain, and asked her about their plans for the coming winter. She had an idea of spending Christmas with family members in Europe, but wanted to discuss possibilities with her sister. She proposed visiting Barcelona, as the city has always been on her bucket list, and they could spend New Year's Eve there together. Finally, Maria sent an email to her parents, who live in Brazil, letting them know that she was planning a trip to see them in the next few months, and asked for their schedules to coordinate her trip around their availability. She also mentioned the possibility of visiting other family members, who live in neighboring countries. She ended her email by expressing her desire to bring the family closer together by organizing trips and visits to relatives. Maria clicked the send button, hoping to receive favorable responses from her family members, excited about the prospect of bringing everyone together.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

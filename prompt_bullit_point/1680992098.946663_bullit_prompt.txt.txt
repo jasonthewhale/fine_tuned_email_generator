@@ -1,0 +1,6 @@
+a89f342d-4f0a-4b57-90ad-cfb4c38fa771
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Emily, the youth program coordinator at First United Church, sat down at her desk to write an email to the church board. She wanted to update them on the progress of the youth and children's programs, including the Sunday school, youth group, and upcoming summer events. Emily had been working tirelessly with her team of volunteers to plan new activities and improve the existing programs. She began the email by briefly introducing herself and then delved into the updates, a list that was quite lengthy. Emily added photos to illustrate the joy and engagement of the children and teenagers during youth group meetings and events. After giving an overview of the recent program changes, Emily encouraged the board members to attend upcoming events, including a summer camp and a charity event aimed at raising funds for disadvantaged children. She concluded the email by thanking the board for their continued support and closed with a reminder of the important role that the youth and children's programs play in the church's mission.
+
+BULLET POINTS:

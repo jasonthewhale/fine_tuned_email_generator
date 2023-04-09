@@ -1,0 +1,4 @@
+f4bf288a-9004-41ef-a337-f45202eff083
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Policy updates: Communicating changes in company policies, procedures, or guidelines to employees.
+
+<<DETAILED SCENARIO>>:

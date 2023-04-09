@@ -1,0 +1,5 @@
+Given the following scenario, write an perfect email.
+
+SCENARIO: It was a brisk autumn evening when Claire sat down at her desk to write an email to her oldest and dearest friend, Jess. They had known each other since kindergarten and had been through thick and thin together. As Claire began typing, memories of their childhood flooded back, and tears streamed down her face. She recalled the summer they spent sneaking candy bars out of her parents' pantry and the winter they built a snow fort that ended up collapsing on them. But most of all, she remembered Jess always being there for her, through the ups and downs of life. As she wrote, Claire wanted to express her deep gratitude and love for Jess and the positive impact their friendship had had on her life. She thanked Jess for being a constant source of support, for inspiring her, for making her laugh, and for simply being there through the years. Through every sentence, Claire's heart swelled with emotion, and she knew that this email would mean the world to Jess. As she hit send, Claire smiled, thinking about a future full of even more memories with her cherished friend.
+
+PERFECT EMAIL:

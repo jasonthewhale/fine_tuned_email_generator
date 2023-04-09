@@ -1,0 +1,4 @@
+3aeeae52-6263-4d31-8705-3d71929f90ae
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Document sharing: Sending and receiving documents, such as contracts, proposals, or reports, for review or approval.
+
+<<DETAILED SCENARIO>>:

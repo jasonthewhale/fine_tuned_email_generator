@@ -1,0 +1,6 @@
+8f6d18fd-a047-4b14-8c95-6114ba8759a4
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Leah sat down at her desk and opened her laptop, ready to compose an email to her extended family. She had been thinking about their financial situation for some time now, and felt it was important for them all to have a discussion about family budgets, investments, and estate planning. She started the email by greeting everyone and introducing the topic. Leah explained her belief that every family should have a solid financial plan to secure their future, and she proposed a family meeting to discuss the matter together. She outlined a tentative agenda, including budgeting tips, investment options, and estate planning strategies. Leah also suggested they invite a financial planner to the meeting to provide professional guidance. She ended the email by reminding everyone that this was a matter of great importance and hoped they would be open to discussing their finances together. Leah clicked send, feeling satisfied that she had taken a proactive step to ensure her family's financial security.
+
+BULLET POINTS:

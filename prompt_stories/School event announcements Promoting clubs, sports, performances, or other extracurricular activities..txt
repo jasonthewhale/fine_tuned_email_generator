@@ -1,0 +1,4 @@
+56b61ae6-1b73-4cc5-861a-b7394974d49e
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: School event announcements: Promoting clubs, sports, performances, or other extracurricular activities.
+
+<<DETAILED SCENARIO>>:

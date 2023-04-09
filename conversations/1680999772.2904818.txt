@@ -1,0 +1,15 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:It's about a sales proposal that needs to be sent to a client urgently.
+ASSISTANT: Okay, can you give me some more details about the situation? Who is the client and what is the proposal about?
+USER: The client is ABC Enterprises and the proposal is a sales proposal for our company, XYZ.
+ASSISTANT: Got it. And who is the sender of this email?
+USER: It's John, the sales manager of XYZ company.
+ASSISTANT: Perfect. Do you have any specific instructions or points that need to be addressed in the email?
+USER: Yes, the email should include a message informing ABC Enterprises of the contents of the proposal and that they need to review and approve it urgently.
+ASSISTANT: Okay, great. Should the proposal be attached to the email as well?
+USER: Yes, it should be attached to the email.
+ASSISTANT: Perfect. Is there anything else you'd like me to include in the email?
+USER: No, that's all. Thank you!
+ASSISTANT: You're welcome. I'll get right on drafting that email for you.

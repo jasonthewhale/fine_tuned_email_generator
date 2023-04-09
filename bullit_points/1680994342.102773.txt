@@ -1,0 +1,13 @@
+TO: The rental property organization
+FROM: Maria
+SUBJECT: Request for Rental Properties Information
+INTENTIONS: To inquire about available rental properties
+GOALS: 
+- To obtain information about pricing, location, and amenities
+- To mention preferred move-in date and apartment size
+- To come across as professional and respectful
+- To receive a response in a timely manner
+TONES: 
+- Formal and professional 
+- Polite and respectful 
+- Hopeful and optimistic.

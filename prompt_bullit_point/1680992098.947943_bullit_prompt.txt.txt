@@ -1,0 +1,6 @@
+92b936b8-137e-4d81-89d1-aabb8ce67917
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: It was a beautiful Sunday morning, and Sarah sat at her kitchen table with a cup of hot tea in hand. As she looked out the window, she couldn't help but feel a sense of nostalgia come over her. She realized that she had not spoken to her extended family in quite some time and wanted to reconnect with them. Sarah grabbed her laptop and began to draft an email to all her family members, including distant relatives, who she had not spoken with recently. She wanted to create and maintain family archives and believed that sharing memories would be a great way to do so. Sarah typed away, reminiscing about vacations they had taken together, sharing stories about her grandparents, and sending family photos and videos she had digitized. She even shared a new recipe her grandmother had left behind, something that was always a favorite during family gatherings. Sarah's aim was to open up channels of communication and reconnect with her loved ones through a shared appreciation for their past. She hit send and took another sip of tea, waiting for a response.
+
+BULLET POINTS:

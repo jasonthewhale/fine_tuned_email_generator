@@ -1,0 +1,6 @@
+081bc814-3822-4642-a9ce-8d4cdf52808f
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Sarah sat at her desk, staring at her computer screen as she tried to organize a meeting with her team. They had been working on a project for weeks, and it was time to touch base and make sure everyone was on the same page. She opened her email and began typing a message to her colleagues, suggesting a date and time for the meeting. As she drafted the message, she realized she needed to schedule a conference call with a client as well. She quickly switched gears and composed a separate email, requesting a meeting with John, her contact at the client's office. In both emails, she made sure to include all the necessary details, such as dates, times, and the purpose of the meeting. She also made sure to send out invitations and reminders to ensure that everyone knew exactly when and where the meetings would take place. With a quick click of the "send" button, Sarah felt relieved that she had taken care of the necessary scheduling, and she looked forward to the upcoming meetings.
+
+BULLET POINTS:

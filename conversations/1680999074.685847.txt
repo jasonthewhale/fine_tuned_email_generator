@@ -1,0 +1,12 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I recently graduated from college and I'm looking for a job that will allow me to apply my skills and gain experience. I want to send an email to my alma mater's Career Development Center, asking for help in finding internship and job opportunities.
+ASSISTANT: That sounds great! What details would you like me to include in the email?
+USER: I want to thank the center for their support while I was a student, and explain my current situation and interests. I also want to mention several areas of work that I'm passionate about and ask for any recommendations or suggestions they might have. I hope to leverage my network and find the job that will set me on the right path.
+ASSISTANT: That all sounds really good. Can you give me more details about the areas of work you are passionate about? That way, I can highlight them in the email and make sure they stand out to the Career Development Center.
+USER: Yes, I'm really interested in marketing, public relations, and event planning.
+ASSISTANT: Perfect, I'll make sure to include those in the email. Do you want me to mention any specific skills or experiences you have, or any specific companies or organizations you're interested in working with?
+USER: No, I think that's enough for now. Just make sure to thank the center for their help while I was a student, and explain that I'm excited to leverage my network and find the right job.
+ASSISTANT: Got it. I'll draft the email and send it over to you for review before we send it off. Sound good?
+USER: Yes, that sounds great. Thank you so much for your help!

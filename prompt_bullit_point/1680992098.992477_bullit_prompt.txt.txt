@@ -1,0 +1,6 @@
+487073af-bce3-490c-b26a-985b988fc125
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: It was a typical Wednesday afternoon when Samantha, a concerned mother of a fifth-grade student named Jack, sat down to write an email to Jack's teacher, Mrs. Jones. She began by stating her appreciation for Mrs. Jones' hard work and dedication to Jack's education, but quickly got down to business by expressing some concerns regarding his recent behavior and lack of progress in certain subjects. Samantha wanted to work together with Mrs. Jones to come up with a plan to help Jack succeed, and asked for a time that they could meet to discuss this. Mrs. Jones promptly responded and suggested a phone call the following morning before school. Samantha was relieved to know that she could count on open communication with Jack's teacher and felt reassured that they were working together toward a common goal. And so, the lines of communication were opened between them, paving the way for a successful partnership and a brighter future for Jack.
+
+BULLET POINTS:

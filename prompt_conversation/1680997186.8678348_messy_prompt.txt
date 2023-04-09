@@ -1,0 +1,10 @@
+22efbe3a-5a6c-4d85-b50b-882749de72c9
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Samantha had always wanted to visit her friend Natalie in California, but they could never seem to coordinate their schedules. After weeks of planning and back-and-forth emails, Samantha finally sent an email to Natalie with the subject line "Travel Plans". In the email, she suggested they plan a vacation together and explore the city of Los Angeles. She also mentioned that she was open to other options, such as visiting each other's cities or going on weekend getaways. Samantha even suggested visiting Natalie's family in San Diego, since she had never been there before. In the email, Samantha requested that they set a date and start making plans as soon as possible, so they could finally make this long-awaited trip happen. Natalie responded with excitement, and they quickly started to plan their itinerary, from where they would stay to what sights they wanted to see. The two friends were thrilled to have finally found a way to make their travel plans a reality, and they couldn't wait to explore California together.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

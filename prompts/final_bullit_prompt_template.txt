@@ -1,0 +1,6 @@
+Given the following bullit points, write an perfect email, including all the points.
+
+BULLIT POINT: 
+<<BULLIT POINT>>
+
+PERFECT EMAIL:

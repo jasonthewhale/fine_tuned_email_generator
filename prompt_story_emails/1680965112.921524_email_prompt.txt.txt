@@ -1,0 +1,5 @@
+Given the following scenario, write an perfect email.
+
+SCENARIO: Sarah is a communications professional who has just attended a networking event with her colleagues. She met several new contacts who she believes would be great for her company to collaborate with on industry initiatives. Sarah decides to follow up with an email to John, the head of communications for a prominent industry organization, to introduce him to her new contacts and maintain their professional relationship. In the email, she mentions the names and backgrounds of the contacts, as well as their potential for collaboration. She also thanks John for his previous support of her company's initiatives and expresses her eagerness to continue working together. Sarah takes care to craft a professional and personable message that will send a strong message of her company's interest in collaborating and maintaining strong relationships in the industry. She hits send, feeling confident in her networking skills and the value of the connections she has made.
+
+PERFECT EMAIL:

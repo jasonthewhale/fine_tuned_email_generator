@@ -1,0 +1,6 @@
+7e7350cf-10e3-438d-aa9f-024f052d2f4d
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: John, the project manager for a telecommunications company, sat down at his desk to write an important email to the board of directors. The company had just completed a major project that had taken months of hard work from the team, and it was time to report on the progress made. John opened his email and carefully drafted a message outlining the performance evaluations of each team member, the financial updates that showed the project was completed within budget, and the progress report that detailed exactly what had been accomplished. He made sure to include all relevant statistics and figures to back up the claims he was making, and he also highlighted any areas that still needed improvement. With this email, John hoped to impress the board and show them just how valuable his team was to the company. Once he finished drafting the message, he sent it off with anticipation, eagerly awaiting their response.
+
+BULLET POINTS:

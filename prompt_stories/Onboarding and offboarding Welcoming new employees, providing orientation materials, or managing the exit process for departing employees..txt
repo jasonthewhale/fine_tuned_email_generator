@@ -1,0 +1,4 @@
+2906e212-75ae-4202-8d36-a53129b20e7c
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Onboarding and offboarding: Welcoming new employees, providing orientation materials, or managing the exit process for departing employees.
+
+<<DETAILED SCENARIO>>:

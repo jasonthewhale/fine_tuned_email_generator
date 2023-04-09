@@ -1,0 +1,10 @@
+e261a5a4-5f76-41b8-952a-b2939f806d7f
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a beautiful summer day when Sarah decided to take the first step in finding her dream apartment. She had been tirelessly searching for a place to call her own, and finally decided to reach out to the real estate company she had heard great things about. Sarah hurriedly logged onto her computer and typed up an email addressed to "admin@realestateco.com" requesting information about any available rental properties in her desired location. In the email, she included her preferred move-in date, budget, and amenities she was looking for. She clicked send, eagerly anticipating a response from the company. A few hours later, Sarah received an email back from a friendly representative named Ashley. Ashley was prompt and informative, providing detailed information about available units within Sarah's budget, and even sent over virtual photos to give her a better idea of what the apartments looked like. Sarah was ecstatic to have received such great customer service and made an appointment with Ashley to view a rental the following day. The whole experience was seamless and effortless thanks to her decision to reach out and the personalized attention she received from the real estate company.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

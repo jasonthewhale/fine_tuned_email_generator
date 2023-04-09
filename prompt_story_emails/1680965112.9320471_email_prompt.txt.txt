@@ -1,0 +1,5 @@
+Given the following scenario, write an perfect email.
+
+SCENARIO: Karen had grown increasingly concerned about the state of her home. She had noticed that small maintenance tasks, like repairing a leaky faucet, had been piling up and no one in the family seemed to be taking initiative to address them. Karen felt that it was important to have a healthy discussion with her family members about the state of the home and required maintenance tasks. She decided to express her thoughts via email to her family members. In the email, Karen addressed all family members and asked them to contribute their thoughts and ideas. She proposed a family meeting to discuss these topics further. Karen emphasized that the meeting should focus on discussing the home improvements, repairs, or maintenance tasks that needed attention. Her intention in sharing her thoughts via email was to open up a channel of communication and to involve everyone in taking care of the home they shared. She pressed the send button and waited patiently for her family members' responses.
+
+PERFECT EMAIL:

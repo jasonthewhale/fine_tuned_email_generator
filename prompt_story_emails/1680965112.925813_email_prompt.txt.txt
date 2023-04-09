@@ -1,0 +1,5 @@
+Given the following scenario, write an perfect email.
+
+SCENARIO: On a Sunday morning, Mike attends a church service where the sermon is delivered by Pastor Matt. The sermon resonates with him and he feels the urge to learn more about it. After the service, he collects his thoughts and decides to write an email to the church organization. The email explains his intentions to share sermon notes or reflection on the recent message to a wider audience. Mike composes a formal email, introducing himself and stating the subject, "Sermon follow-up." He compliments the pastor's choice of topic and effectively connects with the message conveyed. After briefly summarizing the main points of the sermon, Mike goes on to appreciate actions the church has taken in living the message. He then requests the contact information of the Pastor Matt so, he could share sermon-related materials which he has prepared meticulously as well as any additional resources if required. Finally, Mike thanks the organization for the work they do and ends the email with a closing remark, anticipating a response from the church.
+
+PERFECT EMAIL:

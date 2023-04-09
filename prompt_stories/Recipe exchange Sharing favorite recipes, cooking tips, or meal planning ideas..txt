@@ -1,0 +1,4 @@
+8b266336-2d57-4070-855d-5fcedd2de092
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Recipe exchange: Sharing favorite recipes, cooking tips, or meal planning ideas.
+
+<<DETAILED SCENARIO>>:

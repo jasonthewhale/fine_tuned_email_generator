@@ -1,0 +1,6 @@
+Given the following conversation between assistant and user, write an perfect email for user.
+
+CONVERSATION: 
+<<SCENARIO>>
+
+PERFECT EMAIL:

@@ -1,0 +1,10 @@
+6cf18c62-e37d-470a-9305-37bbdfc133d6
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Lena sat down at her computer, excited to send an email to her friend Maria about the new hobbies they could partake in. It had been a while since they had caught up and Lena was excited to share her interests with Maria. Lena typed away on the keyboard, explaining how she recently joined a book club and has been loving it. She went on to suggest that they create their own book club with their friends. Lena added that she also started a crafting circle with her co-workers and how it's a lot of fun to get together and work on different projects. Lena's intention of sending this email was to motivate Maria to try out new hobbies and maybe add some fun to her life. Lena sent the email off, hoping Maria would agree and they could get started on their new adventure.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

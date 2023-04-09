@@ -1,0 +1,4 @@
+e3ebb898-67d5-498f-b486-dcc8c276317f
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Scheduling appointments: Arranging meetings or tutoring sessions with instructors, advisors, or peers.
+
+<<DETAILED SCENARIO>>:

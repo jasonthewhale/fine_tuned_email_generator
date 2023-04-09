@@ -1,0 +1,4 @@
+53847327-069e-4b32-8d6c-476b5e24f223
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Requesting information: Asking for data, resources, or input needed for a task or project.
+
+<<DETAILED SCENARIO>>:

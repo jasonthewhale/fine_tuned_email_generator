@@ -1,0 +1,24 @@
+TO: Travel department 
+FROM: John, senior manager at ABC Corporation 
+SUBJECT: Travel arrangements for upcoming business conference in NYC 
+
+INTENTIONS: 
+- To coordinate travel arrangements for upcoming business conference 
+- To share itinerary with team 
+- To handle expense reimbursement 
+
+GOALS: 
+- To arrange transportation to and from airport 
+- To book hotel accommodation 
+- To fly with company-approved airline that offers loyalty program 
+- To receive clear instructions on how to claim travel expenses 
+
+TONE: Professional, polite
+
+BULLET POINTS: 
+- Introduction: Greetings and introduction of self 
+- Details of upcoming business conference: Mention date, venue, and conference details 
+- Request for travel arrangements: Request transportation to and from airport and hotel booking 
+- Preference for airline: Request to fly with company-approved airline that offers loyalty program 
+- Instructions for travel expense claim: Request clear instructions on how to claim travel expenses, including the preferred payment method and time frames 
+- Closing: Thank the travel department for their assistance and provide contact information for further communication.

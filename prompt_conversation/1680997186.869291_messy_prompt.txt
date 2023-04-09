@@ -1,0 +1,10 @@
+c5931e51-1fab-45c5-9cd5-5983fbb96b8d
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Mary had just graduated from college and was looking for a job that could provide her with an opportunity to apply her skills and gain experience. She decided to send an email to the Career Development Center of her alma mater, asking for help in finding internships and job opportunities. Mary hoped that by networking with alumni and sharing internship or job postings, she could increase her chances of finding the right position. In her email, she thanked the center for their support while she was a student, and explained her current situation and her interests. Mary also mentioned several areas of work she was passionate about and asked for any recommendations or suggestions the center might have. She hoped that by proactively reaching out, she could leverage her network and find the job that would set her on the right path.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

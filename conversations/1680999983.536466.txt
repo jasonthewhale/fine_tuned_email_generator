@@ -1,0 +1,11 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:It's a thank you email to my mentor, Professor Anderson, and my classmates who helped me during my master's degree in Communications.
+ASSISTANT: That sounds great! Can you give me some more details about what you want to express in the email to Professor Anderson? 
+USER: Sure, I want to express my heartfelt gratitude for his endless support, patience and feedback during my thesis research journey until I got the green light to defend my study.
+ASSISTANT: Got it! And what about the email to your classmates? What do you want to thank them for specifically?
+USER: I want to thank them for making my journey less stressful and more enjoyable by helping me prepare for group presentations and giving me encouraging words during exams.
+ASSISTANT: Perfect. Is there anything else you want to include in the emails?
+USER: No, that's it.
+ASSISTANT: Great. I'll start working on drafting the emails for you now.

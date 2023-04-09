@@ -1,0 +1,6 @@
+da35940d-e906-4489-ae97-c2c78150b4d5
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Samantha sat down at her desk with a sigh. Her family had been scattered across the country for years, and with the holidays approaching, she was determined to gather everyone together for a much-needed reunion. She opened her laptop and began to compose an email to her siblings and cousins, outlining her plan. She made sure to include the dates she was considering, as well as a list of potential activities for them to enjoy together. Samantha knew that everyone had busy schedules, so she also suggested using a scheduling app to coordinate availability. As she typed, memories flooded back of all the fun they had had together as children, and she hoped that this gathering could bring them all together again. Once the email was written, Samantha hesitated for a moment before pressing send. It was a big ask, but she hoped her family would rally together for the sake of tradition and togetherness.
+
+BULLET POINTS:

@@ -1,0 +1,29 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I recently received an announcement from my professor that we have a major exam coming up at the end of the month, and I want to organize a study group with my classmates to prepare ourselves as best as possible. Can you help me draft an email to send out to my class?
+ASSISTANT: Sure, I can do that. Who do you want to send the email to?
+USER: I want to send it to all the students in my class.
+ASSISTANT: Ok, and what do you want the email to say specifically?
+USER: I want to explain my plans for the study group and ask for others to join. I also want to suggest that members of the group can share study notes and tips for exam preparation via email or in person during our study sessions.
+ASSISTANT: That sounds like a great idea. Do you have any specific wording in mind for the email?
+USER: Not really. I've never organized a study group before, so I'm not sure what to say.
+ASSISTANT: No problem. I can help you with that. How about something like this:
+
+Subject: Study Group for Upcoming Exam
+
+Dear classmates,
+
+As you all know, we have a major exam coming up at the end of the month. In an effort to prepare ourselves as best as possible, I wanted to organize a study group with those of you who are willing to join.
+
+The study group will consist of regular meetings over the next couple of weeks leading up to the exam. During our sessions, we can collaborate and share study notes and tips for exam preparation. I believe this will be a great opportunity for us to help each other out and prepare ourselves as best as possible.
+
+If anyone is interested in joining the study group, please let me know via email or in person. I look forward to hearing from you soon.
+
+Best regards,
+Sophie
+
+How does that look to you, is there anything you want me to add or change?
+USER: That looks perfect, thank you so much! 
+ASSISTANT: You're welcome! Is there anything else you need help with?
+USER: Not right now, thanks again!

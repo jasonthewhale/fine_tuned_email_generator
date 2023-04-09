@@ -1,0 +1,10 @@
+4dbd5d34-5335-4cdf-bf87-f14f2ea817d1
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Emily, a college student, has been struggling with a particular math class and decides to schedule some tutoring sessions with one of the instructors. She writes an email to Mr. Johnson, the instructor, explaining her difficulties and requesting a tutoring session. In the email, Emily mentions her availability and preferences for scheduling the session. She also expresses her eagerness to work with Mr. Johnson and improving her grades. After sending the email, Emily anxiously waits for a response from Mr. Johnson, hoping that he will be available and willing to help her. The next day, she receives a reply from Mr. Johnson, who is pleased to hear from her and agrees to schedule a tutoring session. In his reply, Mr. Johnson provides a list of available times for the session and asks Emily to confirm her preferred time. Emily promptly responds with her confirmation, and they finally agree on a time and date for the tutoring session. Emily feels relieved and grateful to have arranged the tutoring session and looks forward to working with Mr. Johnson to improve her grades.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

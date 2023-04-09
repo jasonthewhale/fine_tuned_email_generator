@@ -1,0 +1,16 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:It's a bit of a personal email. I recently connected with an old friend from college through the alumni affairs office and I want to send her an email to catch up and possibly plan a meet-up over coffee.
+ASSISTANT: That sounds lovely! Can you tell me a bit more about your relationship with this friend? What kind of memories do you share?
+USER: Yes! Her name is Jane and we were actually roommates for a year. We have a lot of fun memories from college like late night talks, trying new foods, and studying for exams together.
+ASSISTANT: Great! Is there anything specific you want to mention about your current life? Or anything you're hoping to hear about her life?
+USER: I definitely want to update her on what's been going on with me since we last spoke. And I'm curious to hear about what she's been up to as well.
+ASSISTANT: Perfect, I'll make sure to include that in the email. And what kind of meet-up are you thinking about? Coffee, lunch, dinner?
+USER: Just a casual coffee meet-up would be great.
+ASSISTANT: Okay, got it. Is there anything else you want me to include in the email?
+USER: Hmm, just let her know how excited I am to reconnect and catch up with her.
+ASSISTANT: Absolutely. Is there a specific tone or style you want me to use in the email?
+USER: I want it to be friendly and personable, but still professional.
+ASSISTANT: Sounds good, I can definitely do that. Can you send me Jane's email address?
+USER: Yes, it's jane@email.com

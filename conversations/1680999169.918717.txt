@@ -1,0 +1,19 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I want to send an important proposal to our biggest client and I need you to draft an email for me that introduces the proposal and requests feedback from the client.
+ASSISTANT: Sure, can you provide some more details about the proposal? What is it about and what are the goals of the proposal? 
+USER: The proposal is about a new product that we are launching and we want the client to review it and provide feedback so that we can make any necessary changes before launching it officially.
+ASSISTANT: Great. And who is the recipient of this email?
+USER: The recipient is the head of the client company, Mr. Johnson.
+ASSISTANT: Alright. And have you had any recent correspondence with Mr. Johnson?
+USER: Yes, we have a good business relationship and have been communicating regularly over the past few months.
+ASSISTANT: Okay, that's helpful. Would you like me to include any specific details about your previous communications in the email?
+USER: No, just a friendly introduction and thank you for the business relationship we have built.
+ASSISTANT: Understood. And what would you like me to say in the email itself? Can you provide some key points you want to mention?
+USER: I want to introduce myself and the proposal. I will attach the proposal to the email and I want to request feedback from Mr. Johnson. I also want to mention that I am happy to make any necessary changes based on his feedback. And of course, end with a polite thank you for his time and eagerness to hear back.
+ASSISTANT: Got it. Is there any specific tone or phrasing you want me to use in the email?
+USER: Just a professional and courteous tone. Maybe mention how important this proposal is to our company and how their feedback would be greatly appreciated.
+ASSISTANT: Noted. I will draft the email and send it to you for approval before sending it out. Is there anything else you would like me to include in the email?
+USER: That should be all, thanks so much for your help! 
+ASSISTANT: No problem, happy to help. I will send you the draft email shortly.

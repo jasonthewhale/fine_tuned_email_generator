@@ -1,0 +1,10 @@
+0b9cd5be-33d0-42b4-bc55-2e12b82f6e6d
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Mark, an HR manager, sat at his desk, typing up an email to his colleagues at the company. The subject line read "Training and Development Opportunities." With the annual performance reviews coming up, Mark was eager to share the available training resources and educational materials with his team. He began by announcing a series of online webinars and in-person workshops that would be held throughout the month of June. He also provided links to various online courses and resources, encouraging his colleagues to take advantage of these opportunities to improve their skills and knowledge. Mark knew that developing and investing in his team would lead to better job performance and ultimately, higher company success. In closing, he reminded his colleagues to provide feedback on their training experiences and performance improvements. As he hit send, Mark felt proud and excited about the potential growth and development that lay ahead for the company.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

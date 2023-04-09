@@ -1,0 +1,6 @@
+11a77596-28af-421e-9982-d491dc1ef06b
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: It was a typical Tuesday afternoon when Sarah sat down at her desk with a mission. Her church was planning a series of events in the coming weeks, and it was her responsibility to get the word out. She gathered her thoughts and began crafting an email to St. Mark's Church community. First, she started by greeting the recipient; 'Dear St. Mark's Community.' She then moved on to the crux of the email, announcing the upcoming services, social gatherings, and special celebrations that were planned. Sarah's tone remained upbeat and positive as she highlighted each event, from the Sunday service on September 12 to the community breakfast on September 15. She concluded the email by inviting all community members to join the church for the upcoming events and thanking them for their continued support. With a satisfied smile on her face, Sarah pressed the send button, confident that her email would help spread the word far and wide about the exciting things happening at the church.
+
+BULLET POINTS:

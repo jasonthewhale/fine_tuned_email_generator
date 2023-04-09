@@ -1,0 +1,10 @@
+ec86da67-3bdd-46aa-adac-6ff814844358
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a month after she finished her master's degree in Communications when Sarah decided to reach out to the people who have helped her achieve her academic success. She sat down at her desk, opened her laptop and began typing an email to her mentor, Professor Anderson, who has guided her every step of the way during her thesis research. In her message, Sarah expressed her heartfelt gratitude for the endless support, patience, and feedback that Professor Anderson has given her until she got the green light to defend her study. Feeling inspired, Sarah continued drafting an email to her classmates who had helped her prepare for group presentations and gave her encouraging words during exams. She thanked them for making her journey less stressful and more enjoyable. After another hour of typing, Sarah looked back at her screen, feeling fulfilled and appreciative that her life has been enriched by these people who made time to inspire and shape her education.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

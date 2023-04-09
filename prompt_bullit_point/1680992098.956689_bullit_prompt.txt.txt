@@ -1,0 +1,6 @@
+42730448-9d8d-44aa-aae1-830a9844d489
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Maggie sat down at her kitchen table, coffee in hand, determined to finally reach out to her friend from college who worked in a similar industry. As she typed out the email, she thought about how she could potentially further her career with introductions to her friend's network. She began by introducing herself and recalling memories from their college days. Maggie then made it clear that she was hoping to network with some of her friend's friends, acquaintances, or professional contacts. She even included some of her own background information and expertise. She ended the email by expressing her gratitude for any help or connections that her friend could potentially provide. With a deep breath, she hit send, crossing her fingers and eagerly anticipating a response.
+
+BULLET POINTS:

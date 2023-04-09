@@ -1,0 +1,10 @@
+8c070103-a9b4-4c46-8bcf-f8b01f827137
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a busy Wednesday morning and Susan, the HR manager at XYZ Company, had a lot on her plate. She had just received an email from one of their employees, Jessica, who had been with the company for a little over a year. In the email, Jessica had expressed her concerns regarding the employee benefits program offered by the company. She had also requested some information on the process of filing for leave and how it could affect her benefits.   Susan carefully read through the email and felt that it was important to address Jessica's concerns promptly. As she began drafting her response, she took note of every detail that could help improve the employee experience at the company. Susan began to write an email back to Jessica, covering everything she needed to know about the employee benefits package. She also included a thorough explanation of how to go about filing for leave and how it would affect her current benefits.  Susan ensured that the tone of the email was friendly and clear, showing her willingness to assist her employees with any HR-related matters. She also encouraged Jessica to reach out to her if she had any further concerns in the future. With a sense of satisfaction, Susan hit the send button and went back to her other tasks for the day, knowing that she had helped an employee in need.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

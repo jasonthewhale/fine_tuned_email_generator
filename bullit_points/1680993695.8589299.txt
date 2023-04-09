@@ -1,0 +1,17 @@
+- TO: All employees at XYZ Corporation
+- FROM: John, HR Manager
+- SUBJECT: Policy Update Announcement
+- Intention: To communicate major policy updates that will impact all employees
+- Goals: 
+     - Ensure understanding of policy changes
+     - Provide explanation of why changes are necessary
+     - Outline specific dates for implementation and compliance
+     - Offer contact information for further details and questions
+- Tone: Professional, clear, informative, and approachable
+- Content: 
+     - Explanation of policy changes, including procedures and guidelines
+     - Empathetic acknowledgement of potential employee concerns
+     - Reiteration of importance and benefits of policy changes
+     - Detailed instructions for compliance and implementation
+     - Contact information for HR if employees have questions or need further details
+- Follow-up: Scheduling meetings or Q&A sessions for further explanation if necessary

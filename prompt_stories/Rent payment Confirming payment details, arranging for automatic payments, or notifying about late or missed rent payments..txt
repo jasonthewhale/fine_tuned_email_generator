@@ -1,0 +1,4 @@
+95a32f6f-8611-4006-86ff-14a3c81466bb
+Write a deatiled paragraph to describe a scenario that an individual writes an email to another individual or an organization. Imagine this scenario and write it as a story as detailed as possible, but please keep content in a single paragraph. Include relevant details such as names, times, intentions... Here is the topic of this email: Rent payment: Confirming payment details, arranging for automatic payments, or notifying about late or missed rent payments.
+
+<<DETAILED SCENARIO>>:

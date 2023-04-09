@@ -1,0 +1,5 @@
+Given the following scenario, write an perfect email.
+
+SCENARIO: It was a sunny Sunday afternoon, and Mary felt a sudden urge to update her old friend, Emily, about her furry family members. Mary and Emily had studied together at university and had remained close friends ever since. Mary had always been an animal lover, and had three pets: a dog named Cooper, a cat named Belle, and a parrot named Polly. She thought Emily would love to hear about their latest antics, so she quickly drafted an email to her. In the email, Mary wrote about how Cooper had managed to sneak off with her lunch, and how Belle had decided to take a nap in a flowerpot. She even attached some photos of each pet in their silly moments. Mary also shared about how Polly had learned a new phrase, and it made the entire family laugh. Mary's intention was to spread some joy and bring a smile to Emily's face. She hoped Emily would respond soon, and maybe even share some stories about her own pets.
+
+PERFECT EMAIL:

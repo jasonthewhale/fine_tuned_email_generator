@@ -1,0 +1,17 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I want to reach out to my friend from college who works in a similar industry and see if she can help me network with some of her contacts.
+ASSISTANT: Great! Can you give me some more information about yourself and what type of industry you're in?
+USER: Sure, I work in marketing for a tech company.
+ASSISTANT: And what is your friend's name? Do you want me to address her by name in the email?
+USER: Her name is Sarah, and yes please address her by name in the email.
+ASSISTANT: Alright, and what type of networking are you hoping to accomplish through this email? Just general introductions?
+USER: Yes, I'm hoping to make some connections with Sarah's friends, acquaintances, or professional contacts that could potentially help further my career.
+ASSISTANT: Got it. Is there any specific background information or expertise that you would like me to include about yourself in the email?
+USER: Yes, I would like to include that I have experience in both B2B and B2C marketing, as well as some specific skills related to search engine optimization and digital advertising.
+ASSISTANT: Okay, anything else you would like me to add to the email?
+USER: I think that's it. Maybe just a brief introduction and some memories from our college days to break the ice.
+ASSISTANT: Sounds good. And how would you like to end the email?
+USER: I want to express my gratitude for any help or connections that Sarah could potentially provide me with.
+ASSISTANT: Alright, I have all the information I need. I will draft the email and send it to you for review before we send it to Sarah.

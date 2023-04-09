@@ -1,0 +1,16 @@
+TO: Travel department of ABC Corporation
+FROM: John, senior manager
+SUBJECT: Travel arrangements for business conference in New York City
+
+- Dates of the trip
+- Conference venue location
+- Flight details attached to the email 
+- Request for transportation to and from the airport
+- Request for hotel accommodation 
+- Preference for company-approved airline with loyalty program 
+- Request for clear instructions on how to claim travel expenses 
+- Preferred payment method 
+- Time frames for reimbursement 
+- Any other necessary details for claiming travel expenses 
+- Professional and polite tone 
+- Timely response and coordination expected from travel department.

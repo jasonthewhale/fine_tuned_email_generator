@@ -1,0 +1,6 @@
+7688278b-dcb9-41e5-b0c3-78e2c4733231
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Samantha sat at her desk, feeling overwhelmed with the recent news of her father's cancer diagnosis. She knew she needed to reach out to her church community and ask for help in the form of prayers and spiritual support. Taking a deep breath, she opened her email and composed a message to her pastor and a few close friends from the congregation. She explained the situation and requested that they keep her father and their family in their prayers during this difficult time. As she hit send, Samantha felt a sense of relief wash over her knowing that she had a supportive community to lean on.
+
+BULLET POINTS:

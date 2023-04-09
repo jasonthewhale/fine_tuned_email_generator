@@ -1,0 +1,10 @@
+fd8f9901-ae1d-42ef-b5d0-337401bce72b
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a brisk autumn morning when Sarah sat down at her desk with her laptop and a fresh cup of coffee. She had been meaning to reach out to the local community college for weeks about enrolling in a few business courses, and today was the day she finally had the time to get it done. With a deep breath, Sarah began drafting an email to the admissions office. She introduced herself and explained her interest in registering for a few classes during the upcoming winter semester. Sarah requested information about course availability, prerequisites, and whether or not it would be possible to add or drop classes after the registration period ended. She hoped to get an idea of what a typical schedule might look like and if any online options were available. With anticipation, Sarah hit send, feeling a sense of accomplishment for taking a step towards furthering her education.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

@@ -1,0 +1,15 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I want to report a maintenance issue to the management team of my apartment complex.
+ASSISTANT: Okay, could you give me some more details about the issue?
+USER: Sure. I came home from work on a rainy evening and my doorknob was loose and my door wouldn't open. I also noticed a leaky faucet and some flickering lights in my apartment.
+ASSISTANT: That sounds frustrating. Do you want me to mention all of these issues in the email?
+USER: Yes, please. I pay a monthly maintenance fee for these types of services and I want them to be taken care of promptly.
+ASSISTANT: Of course, I understand. Can you give me a detailed description of the door issue and the exact location?
+USER: The doorknob is loose and the door won't open. It's my front door, apartment number 405.
+ASSISTANT: Got it. And do you have any specific instructions or requests for the management team?
+USER: Just that I want these issues to be taken care of as soon as possible.
+ASSISTANT: Okay, I'll make sure to include that in the email. Is there anything else you want me to mention?
+USER: No, that should be it. Thank you for your help!
+ASSISTANT: No problem at all. I'll send over a draft of the email for you to review before I send it out.

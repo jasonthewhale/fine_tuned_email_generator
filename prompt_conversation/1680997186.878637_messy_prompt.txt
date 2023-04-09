@@ -1,0 +1,10 @@
+a06ab374-1f4d-41c8-be75-56242d2565eb
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Sarah sat down at her computer, ready to draft an email that would introduce her friend, Emily, to a potential networking and social connection. Sarah had met Alex at a conference last year, and they had stayed in touch over LinkedIn, so she thought they might hit it off well in person. Sarah wanted to make sure she crafted the message just right to entice Alex to meet and spend some time with Emily. She started off with a friendly greeting and updated him on her own recent professional undertakings before she launched into the real reason for her email - to introduce Emily. Sarah included details about Emily's background and interests, along with her current professional goals, hoping it would pique Alex's interest. She made sure to let him know that she thought their personalities would mesh well and suggested a time and place for them to meet face-to-face. Sarah finished the email with a cheerful sign-off, hoping this connection could lead to new opportunities and friendships for everyone involved.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

@@ -1,0 +1,15 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:It's to my friend Sarah. I want to let her know that John and I are engaged and update her on some of our wedding plans.
+ASSISTANT: Great! Can you give me some more details on the wedding plans so I can include that in the email?
+USER: Sure! We've already picked a date and venue, and we're starting to look at dresses and catering options.
+ASSISTANT: Okay, I'll make sure to include all of that in the email. Do you have a specific tone or style you want me to use when drafting it?
+USER: Just something friendly and casual. Sarah and I have been friends for a long time, so I want it to feel natural.
+ASSISTANT: Absolutely, I'll keep that in mind. Is there anything else you want me to mention in the email or any specific questions you want me to ask Sarah?
+USER: No, I think that's it. I just want to let her know the news and update her on the wedding plans.
+ASSISTANT: Got it. Is there a specific date or deadline you want me to send the email by?
+USER: No, it's not urgent. But maybe send it within the next week or so.
+ASSISTANT: Sounds good. I'll get started on the email and send it to you for approval before I send it to Sarah. Anything else I can assist you with?
+USER: No, that's it for now. Thank you so much for your help!
+ASSISTANT: Of course, happy to help. I'll be in touch soon with the drafted email for your approval. Have a great day!

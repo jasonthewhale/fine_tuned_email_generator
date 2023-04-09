@@ -1,0 +1,10 @@
+75f209b0-7500-4396-9808-281a4bf0e575
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a busy afternoon at Martin High School, and Steve, the head of the school's extracurricular activities committee, was hard at work drafting an email to all teachers, administrators, and students. His aim was to showcase the slew of upcoming events scheduled for the semester and promote the diverse range of clubs, sports teams, and performances that the school had to offer. The email had to be informative yet engaging, and so Steve put his heart into every word. He outlined the upcoming plays and concerts by the school's theater and music clubs, the basketball, football, and soccer games, the science and debate team assemblies, and the opportunities for community service and charity events. He also highlighted some of the new clubs and organizations that students could join this semester, such as the cooking club and the language exchange program. Once the draft was complete, Steve proofread it for any errors and hit send, confident that it would reach a wide audience and inspire students to get involved in the school's thriving extracurricular scene.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

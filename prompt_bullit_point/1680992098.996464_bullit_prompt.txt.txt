@@ -1,0 +1,6 @@
+b92f2886-a084-40c8-8039-004196aab0d1
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: It was a busy afternoon at Martin High School, and Steve, the head of the school's extracurricular activities committee, was hard at work drafting an email to all teachers, administrators, and students. His aim was to showcase the slew of upcoming events scheduled for the semester and promote the diverse range of clubs, sports teams, and performances that the school had to offer. The email had to be informative yet engaging, and so Steve put his heart into every word. He outlined the upcoming plays and concerts by the school's theater and music clubs, the basketball, football, and soccer games, the science and debate team assemblies, and the opportunities for community service and charity events. He also highlighted some of the new clubs and organizations that students could join this semester, such as the cooking club and the language exchange program. Once the draft was complete, Steve proofread it for any errors and hit send, confident that it would reach a wide audience and inspire students to get involved in the school's thriving extracurricular scene.
+
+BULLET POINTS:

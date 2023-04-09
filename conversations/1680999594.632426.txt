@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I just finished an important proposal for our biggest client and I want to send it for review. Could you draft an email for me to send along with the proposal?
+ASSISTANT: Sure, can you give me some more details? Who is the recipient of the email and what do you want the tone of the email to be like?
+USER: The recipient is Mr. Johnson, the head of the client company. The tone should be professional and courteous, as we value the business relationship we have built over the years.
+ASSISTANT: Great, thanks for the details. Can you give me any specific points you want to mention in the email?
+USER: Yes, I want to introduce myself and mention how much I appreciate the business relationship we have built. I also want to explain the purpose of the email, which is to send the proposal for review and feedback. Lastly, I want to express my eagerness to hear back from him soon.
+ASSISTANT: Got it. And is there anything else you want to add or do you have any other instructions for me?
+USER: No, that's it. Just make sure to proofread it so everything is perfect before I hit send.
+ASSISTANT: Of course, I will make sure to proofread and perfect it. Are there any particular words or phrases you'd like me to include or avoid?
+USER: Not really, just make sure the email is professional and friendly.
+ASSISTANT: Perfect, I'll get started on drafting the email for you. I'll send it over to you for approval before you send it out. Is that okay?
+USER: Yes, that works. Thank you so much!

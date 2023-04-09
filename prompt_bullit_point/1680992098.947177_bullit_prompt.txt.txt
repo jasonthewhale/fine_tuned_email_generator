@@ -1,0 +1,6 @@
+337d79dd-3ca8-4923-8484-520619874c07
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Sarah, a recent college graduate, had just landed her dream job in a top marketing firm. She had worked hard for years to achieve this and wanted to share the news with her family who lived on the other side of the country. So, she decided to write an email to her parents, siblings, and close cousins. Sarah began by greeting everyone and thanking them for their love and support. Then, she shared her exciting news about her job, highlighting her accomplishments throughout the interview process. She also mentioned her salary and how it would allow her to be more financially independent. Sarah added a personal touch by sharing her feelings of pride and gratitude, thanking her family once again for their constant encouragement. She concluded the email by mentioning her future plans, such as moving to a new apartment and exploring the city. Sarah knew that her family would be thrilled to hear about her success, and she felt that a well-crafted email would allow her to receive the support and praise she deserved.
+
+BULLET POINTS:

@@ -1,0 +1,10 @@
+bdd235e7-736a-4c52-9cba-8357627fc8ee
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Jennifer, a college student, had just finished her last lecture of the week and went back to her dormitory. She had a group assignment due in two weeks, and as a responsible student, she wanted to share some study materials, articles, and educational resources with her classmates or instructors to assist them with the assignment. Since sending the same email to several people consumes time and effort, she decided to write an email to her instructor, Mr. Smith, sharing her resources and asking him to forward the relevant ones to her classmates. In Jennifer's email, she introduced herself, mentioned her course, and included a concise summary of the assignment. She then shared links to educational websites, free e-books, and educational videos, which she thought could be useful to understand the topic better. She also encouraged her classmates to add more resources, share their opinions or clarify any doubts they might have regarding the assignment. Her email's primary purpose was to help her classmates, and she hoped it would create a collaborative spirit in the class, leading to better academic performance. Jennifer signed off the email with her favorite quote, "Knowledge shared is knowledge gained," and sent it to Mr. Smith.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

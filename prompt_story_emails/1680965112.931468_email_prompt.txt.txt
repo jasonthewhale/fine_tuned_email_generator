@@ -1,0 +1,5 @@
+Given the following scenario, write an perfect email.
+
+SCENARIO: John, the project manager, was sitting at his desk, diving into the different aspects of his project details. It has been a few days since he had a discussion with his team about their progress and the tasks that need to be completed. As he was compiling a list of what has been done and what needs to be done, he realized it was time to collaborate with his team and get everyone back on the same page. Without any further delay, John opened his email and began drafting an email to the team. In his email, John outlined the project details and highlighted what has been accomplished so far. He then went on to assign specific tasks to each team member and asked them to provide progress updates by the end of the week. John ended his email by encouraging the team to collaborate and leverage each other's strengths to deliver the project as planned. With a few clicks, John sent the email to the entire team and waited anxiously for their response.
+
+PERFECT EMAIL:

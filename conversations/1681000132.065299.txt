@@ -1,0 +1,14 @@
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:I want to plan a get-together with my friends and I need to coordinate their schedules. Can you help me write an email for them?
+ASSISTANT: Of course! Can you give me some details about the get-together? When and where do you want to have it?
+USER: I haven't decided on a specific date or location yet. I was thinking we could have a potluck-style gathering and everyone could bring their favorite dish and drink. Maybe we can play some games too.
+ASSISTANT: Great! Let's start with the email subject. How about "Let's Get Together for a Potluck Party"?
+USER: That sounds good. In the email message, can you ask everyone to coordinate their schedules using a Doodle poll?
+ASSISTANT: Sure, I can include that. Do you have any specific dates in mind for the party?
+USER: Not yet, but I want to make sure it's a date that works for everyone.
+ASSISTANT: Understood. I will include a message about the Doodle poll to coordinate schedules. Anything else you want me to include in the email message?
+USER: Just that I'm excited to see everyone and looking forward to having a great time.
+ASSISTANT: Alright, I will draft the email and send it to you for approval. How does that sound?
+USER: Perfect, thank you.

@@ -1,0 +1,6 @@
+07c24189-3590-44cd-b85a-ae4c7f52ea73
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Mary had just graduated from college and was looking for a job that could provide her with an opportunity to apply her skills and gain experience. She decided to send an email to the Career Development Center of her alma mater, asking for help in finding internships and job opportunities. Mary hoped that by networking with alumni and sharing internship or job postings, she could increase her chances of finding the right position. In her email, she thanked the center for their support while she was a student, and explained her current situation and her interests. Mary also mentioned several areas of work she was passionate about and asked for any recommendations or suggestions the center might have. She hoped that by proactively reaching out, she could leverage her network and find the job that would set her on the right path.
+
+BULLET POINTS:

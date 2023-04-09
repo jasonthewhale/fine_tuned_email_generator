@@ -1,0 +1,6 @@
+8e2ca967-2db5-4d0b-9474-68a1eef3c334
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: It was nearing the end of the semester and Maria had just received her grades. She was happy with most of them, but there were a couple of classes where she felt she deserved better. She decided to send an email to her professors, Dr. Thompson and Dr. Garcia, to inquire about their grading methods and to possibly request a re-evaluation of her work. The email was respectful but also assertive in addressing Maria's concerns about her academic performance. She provided specific examples of where she believed her work deserved a higher grade and asked for clarification on the professors' expectations. Maria also expressed her willingness to meet with them to discuss her grades further. She sent the email in the early afternoon, hoping to receive a response before the weekend. Maria understood the importance of her grades as she was applying to graduate school, and she knew that addressing her concerns early on was the best way to ensure her academic success.
+
+BULLET POINTS:

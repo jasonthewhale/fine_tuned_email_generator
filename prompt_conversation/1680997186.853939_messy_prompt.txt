@@ -1,0 +1,10 @@
+c119f2a9-889a-4b2e-bce0-59ed3ccfa254
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: Sophie is a fitness enthusiast who loves to workout and make healthy lifestyle choices. One day, while browsing the internet, she comes across a wellness blog belonging to an organization named "Fit for Life." Impressed with the content, she decides to send them an email sharing her own journey towards fitness and asking for advice on how to stay motivated. She introduces herself and states her intentions, explaining that she would like to share her own fitness goals and workout routine in hopes of inspiring others. Additionally, she expresses an interest in receiving tips and tricks to improve her own fitness journey, and requests monthly updates on the organization's inspirational stories to keep her motivated. Sophie concludes the email by thanking the organization for their work and hoping for a fruitful collaboration.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:

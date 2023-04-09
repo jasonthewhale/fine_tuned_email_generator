@@ -1,0 +1,6 @@
+d8d7d658-1b8f-494a-a73f-d202dfa6ea10
+Given the following scenario, brainstorm a list of bullet points to include in the email. Bullet points should include topics such as TO, FROM, SUBJECT, intentions, goals, tone, and so on. Be creative as this is an imaginary scenario!
+
+SCENARIO: Sarah, a sales executive at XYZ Corporation, needed to travel to Los Angeles for a business meeting with a potential new client, ABC Industries. She knew that coordinating travel arrangements could be a hassle, so she decided to reach out to her colleague, John, who works in the company's travel department. Sarah drafted an email to John, outlining the dates and times of her trip, as well as her preferred mode of transportation and accommodations. She also included a proposed itinerary for her trip and requested that John make any necessary adjustments or additions. In addition to coordinating her travel arrangements, Sarah asked John to help her with the necessary paperwork for expense reimbursement upon her return. She knew that submitting expense reports could be a tedious task, and she appreciated John's willingness to help her out. Sarah sent the email and felt relieved that she was one step closer to a successful business trip.
+
+BULLET POINTS:

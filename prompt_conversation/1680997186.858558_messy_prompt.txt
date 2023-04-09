@@ -1,0 +1,10 @@
+ab294765-7308-4a11-adb7-f6334653706e
+The following is a very long chat log between an executive assistant and a user. The user has asked the assistant to draft an email for them. The assistant is asking questions about the email so they know what to write. Imagine the long chat conversation about the following topic: It was a Monday afternoon when Sarah sat down at her desk to draft an email to the church board members. As the head of the fundraising committee, it was her responsibility to provide regular updates on the church's financial goals and progress. She began by greeting the recipients cordially, and then delved straight into the core of the message. Sarah talked about the recent capital campaign that the church had started and how it had met favourable reception within the congregation. She then discussed the special offering that was to take place in three weeks, detailing the intended purpose of the funds and the significant impact it would have on the community. Sarah then closed the email by reminding the board members of the various promotions that the fundraising committee had drafted to generate awareness about the capital campaign and special offerings. She included links to the church website that contained more information on how to get involved in the fundraising efforts. Sarah knew how important it was to regularly communicate with the board members and the greater congregation, and hoped that her email would inspire more participation in the church's fundraising campaign.
+
+
+VERY LONG CHAT CONVERSATION:
+
+ASSISTANT: Hi there! How can I help you today?
+USER: I need you to draft an email for me.
+ASSISTANT: What do you need the email to say?
+USER:
